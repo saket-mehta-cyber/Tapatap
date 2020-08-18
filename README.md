@@ -2,7 +2,7 @@
 
 Tap and play sound. Press any key from A-Z.
 
-To see this project working click on ==>
+To see this project working click on => https://saket-mehta-cyber.github.io/Tapatap/
 
 PS: Only works on Computer.It is basically a little version of patap.com that i tried to build.
 
